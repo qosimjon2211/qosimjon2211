@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Qosimjon 👋
 
-<!--
-**qosimjon2211/qosimjon2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer (beginner)  
+🌱 I’m currently learning JavaScript  
+🚀 I want to become a strong developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- HTML  
+- CSS  
+- JavaScript (basic)  
+
+---
+
+## 🚀 Projects
+- 🛒 PAOZBE Shop (Online store)
+- 🎮 Mini HTML Game
+- 🌐 Portfolio (coming soon)
+
+---
+
+## 📫 Contact me
+- Telegram: @paozbe_uz  
+
+---
+
+## ⚡ About me
+I am a beginner developer from Uzbekistan 🇺🇿  
+I love building websites and games.  
+My goal is to become a professional programmer.
+
+## ⚡ Fun fact
+I build websites and games even when I should be sleeping 😅
